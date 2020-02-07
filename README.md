@@ -1,0 +1,49 @@
+~~NOME - RA~~
+FERNANDA RAQUEL CAMPOS JIACINTO - RA: 141682439
+PEDRO AUGUSTO FABRI - RA: 141682410
+
+
+~~VALIDAÇÃO DE CPF~~
+CPF válidos: 111.111.111.11
+	     222.222.222.22
+		.
+		.
+		.
+	     999.999.999.99
+
+~~CANDIDATOS~~
+
+- Presidente:
+	66
+	64
+	43
+	33
+	31
+
+- Governador:
+	66
+	64
+	43
+	33
+	31
+
+-Senador:
+	666
+	644
+	433
+	333
+	311
+
+-Dep. Federal:
+	6666
+	6464
+	4343
+	3333
+	3131
+
+-Dep. Estadual:
+	66666
+	64644
+	43433
+	33333
+	31311	
